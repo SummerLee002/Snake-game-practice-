@@ -1,0 +1,32 @@
+<application>
+  <component name="DimensionService">
+    <location key="new project wizard.0.0.1440.900" x="124" y="66" />
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="719" y="378" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1440.900" x="399" y="259" />
+    <location key="#Project_Structure.0.0.1440.900" x="304" y="152" />
+    <location key="GitCloneDialog.0.0.1440.900" x="599" y="369" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1440.900" x="586" y="250" />
+    <location key="ProcessPopupWindow.0.0.1440.900" x="898" y="476" />
+    <location key="RegExHelpPopup.0.0.1440.900" x="538" y="268" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1440.900" x="496" y="225" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1440.900" x="647" y="149" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1440.900" x="342" y="180" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1440.900" x="457" y="68" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1440.900" x="438" y="205" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1440.900" x="348" y="121" />
+    <location key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.1440.900" x="479" y="301" />
+    <location key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD.0.0.1440.900" x="443" y="392" />
+    <location key="#Main.0.0.1440.900" x="440" y="159" />
+    <location key="#Murdernerd.0.0.1440.900" x="430" y="108" />
+    <location key="#main.0.0.1440.900" x="430" y="108" />
+    <location key="SettingsEditor.0.0.1440.900" x="220" y="103" />
+    <location key="NewModule_or_Project.wizard.0.0.1440.900" x="356" y="28" />
+    <size key="GridCell.Tab.0.left.0.0.1440.900" width="1087" height="191" />
+    <size key="GridCell.Tab.0.center.0.0.1440.900" width="1087" height="191" />
+    <size key="GridCell.Tab.0.right.0.0.1440.900" width="1087" height="191" />
+    <size key="GridCell.Tab.0.bottom.0.0.1440.900" width="1087" height="191" />
+    <size key="ProcessPopupWindow.0.0.1440.900" width="400" height="261" />
+    <size key="RegExHelpPopup.0.0.1440.900" width="600" height="324" />
+    <size key="GitCloneDialog.0.0.1440.900" width="579" height="146" />
+  </component>
+</application>
